@@ -1,3 +1,3 @@
 # Python
 
-https://github.com/MyDearGreatTeacher(老師網址)
+https://github.com/MyDearGreatTeacher       (老師網址)
